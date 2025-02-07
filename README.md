@@ -11,8 +11,8 @@
 - GPA: 4.0/4.0; Academic Honors: President’s List (Fall 2024)
 
 ### Work Experience
-- GNC (General Nutrition Center)    	        	        	                                	        	          May. 2022 – Sept. 2023
-- Store Manager    	          	        	                    	                                	        	        	 	   	 Las Vegas. NV
+## GNC (General Nutrition Center)    	        	        	                                	        	          May. 2022 – Sept. 2023
+# Store Manager    	          	        	                    	                                	        	        	 	   	 Las Vegas. NV
 GNC is a leading global specialty health, wellness, and performance retailer.
 As a Store Manager, I supervised and ensured my retail store’s daily operations including opening/closing procedures, cash handling, preparing & managing bank deposits, and implementing effective sell strategies to exceed sales targets to a team.
 Key Results: Consistently exceeded sales targets by $5,000 or more, placing my store’s performance in the top 3 in the entire district.
