@@ -14,14 +14,16 @@
 - GPA: 4.0/4.0; Academic Honors: President’s List (Fall 2024)
 
 # Work Experience
-### GNC (General Nutrition Center) Store Manager                         	        	                                                 Las Vegas, Nevada May. 2022 – Sept. 2023
+### GNC (General Nutrition Center) Store Manager                         	        	                                                 
+Las Vegas, Nevada May. 2022 – Sept. 2023
 
 As a Store Manager, I supervised and ensured my retail store’s daily operations including opening/closing procedures, cash handling, preparing & managing bank deposits, and implementing effective sell strategies to exceed sales targets to a team.
 Key Results: Consistently exceeded sales targets by $5,000 or more, placing my store’s performance in the top 3 in the entire district.
 Worked with Loss prevention and District Managers to ensure Inventory Shrinkage percentage was reduced.
 Recruited, interviewed, trained, and motivated staff to enhance team productivity and retention. Scheduling and processing my team’s payroll weekly.
 
-### Target Store Associate                                                                                                           Las Vegas, Nevada  Nov. 2023 – Present
+### Target Store Associate                                                                                                          
+Las Vegas, Nevada  Nov. 2023 – Present
 
 I prioritize work productivity to meet deadlines and ensure shelves are efficiently stocked and displayed according to company standards. I consistently unload heavy 2,000+ piece trucks daily with and without assistance/accommodations. Provided friendly and knowledgeable service assisting guests in locating items and answering product-related questions.
 
