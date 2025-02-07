@@ -48,3 +48,4 @@ As a landscaper, I was tasked with preparing the ground for sprinkler system ins
 - 4 Years Experience in Microsoft Word, Powerpoint, and Excel
 - 10+ Years Experience in Computer Hardware and Software
 - Digital Graphics
+- Completed a Security Audit Via Google's Cybersecurity Certificate Program
