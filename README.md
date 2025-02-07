@@ -1,6 +1,6 @@
 # Computer Scientist
 
-### Education
+# Education
 
 - Rancho High School					                     	        		      
 - Standard Diploma		   			                                                                         Las Vegas, NV
@@ -10,8 +10,8 @@
 - Major Computer Science			   			                                                             Las Vegas, NV
 - GPA: 4.0/4.0; Academic Honors: President’s List (Fall 2024)
 
-### Work Experience
-# GNC (General Nutrition Center)    	        	        	                                	        	          May. 2022 – Sept. 2023
+# Work Experience
+### GNC (General Nutrition Center)    	        	        	                                	        	          May. 2022 – Sept. 2023
  Store Manager    	          	        	                    	                                	        	        	 	   	 Las Vegas. NV
 GNC is a leading global specialty health, wellness, and performance retailer.
 As a Store Manager, I supervised and ensured my retail store’s daily operations including opening/closing procedures, cash handling, preparing & managing bank deposits, and implementing effective sell strategies to exceed sales targets to a team.
@@ -35,9 +35,9 @@ As a Store Associate at In-N-Out Burger, I operated and maintained my own regist
  Alvarez Lawncare LLC is a landscaping company specializing in lawn maintenance and land renovations
 As a landscaper, I was tasked with preparing the ground for sprinkler system installations and repairs. After installation clean-up was mandatory and required attention to detail. This included cleaning rocks, dirt, and leaves up to 75 lbs daily.
 
-### Certifications
+# Certifications
 Certificate of Skill Attainment in Graphic Design, CTE (May 2022)
 
 Foundations of Cybersecurity, Google (February 2025, Credential ID: XXFMHXE1X1VH)
 
-### Skills
+# Skills
