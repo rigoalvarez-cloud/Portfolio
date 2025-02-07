@@ -20,6 +20,8 @@ I Look forward to expanding my knowledge in the Cybersecurity space each and eve
 
 - Foundations of Cybersecurity, Google (February 2025, Credential ID: XXFMHXE1X1VH)
 
+- Play It Safe: Manage Security Risks, Google (February 2025, Credential ID A64TIT3QO0PC)
+
 # Work Experience
 ### GNC (General Nutrition Center) Store Manager                         	        	                                                 
 ### Las Vegas, Nevada May. 2022 – Sept. 2023
