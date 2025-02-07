@@ -13,6 +13,11 @@
 - Major Computer Science			   			                                                             Las Vegas, NV
 - GPA: 4.0/4.0; Academic Honors: President’s List (Fall 2024)
 
+# Certifications
+- Certificate of Skill Attainment in Graphic Design, CTE (May 2022)
+
+- Foundations of Cybersecurity, Google (February 2025, Credential ID: XXFMHXE1X1VH)
+
 # Work Experience
 ### GNC (General Nutrition Center) Store Manager                         	        	                                                 
 ### Las Vegas, Nevada May. 2022 – Sept. 2023
@@ -23,21 +28,23 @@ Worked with Loss prevention and District Managers to ensure Inventory Shrinkage 
 Recruited, interviewed, trained, and motivated staff to enhance team productivity and retention. Scheduling and processing my team’s payroll weekly.
 
 ### Target Store Associate                                                                                                          
-Las Vegas, Nevada  Nov. 2023 – Present
+### Las Vegas, Nevada  Nov. 2023 – Present
 
 I prioritize work productivity to meet deadlines and ensure shelves are efficiently stocked and displayed according to company standards. I consistently unload heavy 2,000+ piece trucks daily with and without assistance/accommodations. Provided friendly and knowledgeable service assisting guests in locating items and answering product-related questions.
 
-### In-N-Out Burger Store Associate									                                                                                         Las Vegas Nevada Apr. 2021 – Jan. 2022
+### In-N-Out Burger Store Associate									                                                                                         
+### Las Vegas Nevada Apr. 2021 – Jan. 2022
 
 As a Store Associate at In-N-Out Burger, I operated and maintained my own register daily, and provided a welcoming and satisfying experience to our guests. Maintained and restocked the dining room, which included straws, lids, drinks, and tables for guests.
 
-### Alvarez Lawncare LLC Landscaper                                          	          	                                     Las Vegas, Nevada Nov. 2019 – Jan. 2021
+### Alvarez Lawncare LLC Landscaper                                          	          	                                     
+### Las Vegas, Nevada Nov. 2019 – Jan. 2021
  
 As a landscaper, I was tasked with preparing the ground for sprinkler system installations and repairs. After installation clean-up was mandatory and required attention to detail. This included cleaning rocks, dirt, and leaves up to 75 lbs daily.
 
-# Certifications
-Certificate of Skill Attainment in Graphic Design, CTE (May 2022)
-
-Foundations of Cybersecurity, Google (February 2025, Credential ID: XXFMHXE1X1VH)
-
 # Skills
+- Bilingual (Fluent in Spanish)
+- 4 Years Experience in Adobe Illustrator, Photoshop, and Indesign
+- 4 Years Experience in Microsoft Word, Powerpoint, and Excel
+- 10+ Years Experience in Computer Hardware and Software
+- Digital Graphics
