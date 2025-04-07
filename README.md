@@ -44,12 +44,12 @@ As a Store Associate at In-N-Out Burger, I operated and maintained my own regist
 ### MedCerts Fundamentals of IT Student (Hands-on Training)                                       	          	                                     
 ### Las Vegas, Nevada Apr. 2025 – Current
  
-Operated and managed virtual machines (VMs) for hands-on IT system simulations.
-Utilized Visual Studio Code to structure HTML files systematically, ensuring readability and maintainability.
-Diagnosed and resolved application crashes and unresponsive programs using Task Manager and Event Viewer.
-Installed and configured network printers, including sharing and connecting to remote devices.
-Developed technical documentation and reported troubleshooting findings.
-Operated Kali Linux in a virtualized environment for hands-on security testing and analysis, demonstrating proficiency in ethical hacking tools and techniques.
+- Operated and managed virtual machines (VMs) for hands-on IT system simulations.
+- Utilized Visual Studio Code to structure HTML files systematically, ensuring readability and maintainability.
+- Diagnosed and resolved application crashes and unresponsive programs using Task Manager and Event Viewer.
+- Installed and configured network printers, including sharing and connecting to remote devices.
+- Developed technical documentation and reported troubleshooting findings.
+- Operated Kali Linux in a virtualized environment for hands-on security testing and analysis, demonstrating proficiency in ethical hacking tools and techniques.
 
 
 # Skills
