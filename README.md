@@ -41,15 +41,24 @@ I prioritize work productivity to meet deadlines and ensure shelves are efficien
 
 As a Store Associate at In-N-Out Burger, I operated and maintained my own register daily, and provided a welcoming and satisfying experience to our guests. Maintained and restocked the dining room, which included straws, lids, drinks, and tables for guests.
 
-### Alvarez Lawncare LLC Landscaper                                          	          	                                     
-### Las Vegas, Nevada Nov. 2019 – Jan. 2021
+### MedCerts Fundamentals of IT Student (Hands-on Training)                                       	          	                                     
+### Las Vegas, Nevada Apr. 2025 – Current
  
-As a landscaper, I was tasked with preparing the ground for sprinkler system installations and repairs. After installation clean-up was mandatory and required attention to detail. This included cleaning rocks, dirt, and leaves up to 75 lbs daily.
+Operated and managed virtual machines (VMs) for hands-on IT system simulations.
+Utilized Visual Studio Code to structure HTML files systematically, ensuring readability and maintainability.
+Diagnosed and resolved application crashes and unresponsive programs using Task Manager and Event Viewer.
+Installed and configured network printers, including sharing and connecting to remote devices.
+Developed technical documentation and reported troubleshooting findings.
+Operated Kali Linux in a virtualized environment for hands-on security testing and analysis, demonstrating proficiency in ethical hacking tools and techniques.
+
 
 # Skills
-- Bilingual (Fluent in Spanish)
-- 4 Years Experience in Adobe Illustrator, Photoshop, and Indesign
-- 4 Years Experience in Microsoft Word, Powerpoint, and Excel
-- 10+ Years Experience in Computer Hardware and Software
-- Digital Graphics
-- Completed a Security Audit Via Google's Cybersecurity Certificate Program
+- Security Information and Event Management (SIEM)
+- Operating System Administration (Windows Server & Windows 10)
+- System Troubleshooting & Maintenance
+- Bilingual - Fluent in Spanish
+- 1 Year Experience in Kali Linux
+- 1 Year Experience in Basic HTML Development
+- 1 Year Experience in Microsoft's Visual Studio Code
+- 4 Years Experience in Microsoft Suite: Word, Powerpoint, and Excel
+- Printer Installation & Configuration
