@@ -22,7 +22,7 @@ Welcome! I’m Rigoberto Alvarez, an early-career cybersecurity and IT professio
 
 ## 🔗 Connect
 - LinkedIn: https://www.linkedin.com/in/rigoberto-alvarez-53a7a9207/
-- GitHub: https://github.com/<your-username>
+- GitHub: https://github.com/<rigoalvarez-cloud>
 
 ## 🛡️ Professional Summary
 I am building a career in cybersecurity and IT by combining customer-facing communication skills with technical problem solving. I enjoy identifying risks, improving system reliability, and documenting solutions clearly.
